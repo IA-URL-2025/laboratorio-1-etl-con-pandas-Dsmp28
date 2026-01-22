@@ -1,0 +1,3 @@
+id_cita,paciente,fecha_cita,especialidad,estado,telefono,costo
+1,Juan Perez,2025-01-10,MEDICINA GENERAL,CONFIRMADA,NO REGISTRA,150
+4,Carlos Ruiz,2025-01-20,MEDICINA GENERAL,CONFIRMADA,NO REGISTRA,300
