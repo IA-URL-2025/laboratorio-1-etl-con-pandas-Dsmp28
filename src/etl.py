@@ -27,6 +27,7 @@ def run_etl():
 
     #Cargar
     df.to_csv("data/output.csv", index=False)
+    
 
 
 if __name__ == "__main__":
